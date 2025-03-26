@@ -27,7 +27,12 @@ const Projects = () => {
         src='/SpaceWebsite.png'
         title='SpaceX'
         description='Space-Themed Portfolio showcases your work in a unique, cosmic design. Navigate through projects like youre exploring the stars, with sleek animations and an out-of-this-world layout that highlights your skills and creativity in an engaging and visually captivating way.'
-        url='https://portfolio-lac-pi-29.vercel.app/'
+        url='<ProjectCard 
+        src='/SpaceWebsite.png'
+        title='SpaceX'
+        description='Space-Themed Portfolio showcases your work in a unique, cosmic design. Navigate through projects like youre exploring the stars, with sleek animations and an out-of-this-world layout that highlights your skills and creativity in an engaging and visually captivating way.'
+        url='https://space-7gfaxdzv0-ansh-thukrals-projects.vercel.app/'
+        />'
         />
       </div>
 
